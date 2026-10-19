@@ -81,7 +81,7 @@ public class StudyTracker {
                     System.out.println();
                 }
             }
-            sc.close();
         }
+        sc.close();
     }
 }
